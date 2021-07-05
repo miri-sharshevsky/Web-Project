@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@font-face {
+  font-family: "FbAyala-Regular";
+  src: local("FbAyala-Regular"),
+    url("./asset/fonts/FbAyala-Regular.otf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "FbAyala-Bold";
+  src: local("FbAyala-Bold"), url("./asset/fonts/FbAyala-Bold.otf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "FbAyala-Black";
+  src: local("FbAyala-Black"),
+    url("./asset/fonts/FbAyala-Light.otf") format("truetype");
+  font-weight: normal;
+}

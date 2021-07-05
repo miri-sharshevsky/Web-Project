@@ -1,0 +1,68 @@
+.chat-contaner {
+  border: 3px solid #f3cb16;
+  margin-right: 5%;
+  margin-left: 5%;
+  background-color: white;
+  margin-bottom: 3%;
+  padding-bottom: 3%;
+  overflow: scroll;
+  height: 40vw;
+  /*   width: 100%;
+ */
+}
+.chat-costumer {
+  margin-top: 1%;
+  margin-right: 3%;
+  background-color: rgb(255, 229, 151);
+  text-align: right;
+  width: 60%;
+  font-size: 1.2vw;
+}
+.chat-worker {
+  margin-top: 1%;
+  margin-right: 35% !important;
+  align-self: flex-end;
+  margin-left: 1%;
+  background-color: rgb(247, 243, 243);
+  text-align: left !important;
+  width: 60%;
+  font-size: 1.2vw;
+}
+.chat-contaner::-webkit-scrollbar {
+  width: 1vw;
+  background-color: #dadada;
+}
+
+.chat-contaner::-webkit-scrollbar-thumb {
+  border-radius: 0.5vw;
+  background-color: #999999;
+}
+.chat-input {
+  margin-top: 1%;
+  height: 3vw;
+  border-bottom: 3px solid black !important;
+  border-top: 0px !important;
+  border-right: 0px;
+  border-left: 0px;
+  width: 80%;
+  margin-right: 10%;
+}
+
+.chat-name {
+  font-size: 1vw !important;
+  display: inline-block;
+  width: 50%;
+  margin-bottom: 0% !important;
+  padding-bottom: 0% !important;
+}
+.chat-date {
+  font-size: 1vw !important;
+  display: inline-block;
+  width: 50%;
+  margin-bottom: 0% !important;
+  padding-bottom: 0% !important;
+}
+.chat-pass {
+  margin-top: 0.5% !important;
+  margin-bottom: 0.5% !important;
+}

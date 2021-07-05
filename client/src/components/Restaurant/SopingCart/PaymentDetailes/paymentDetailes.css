@@ -1,0 +1,66 @@
+.detailes {
+  direction: rtl;
+  padding: 0%;
+  text-align: center;
+  margin-right: 0%;
+}
+
+.label {
+  text-align: center;
+  margin-left: 50%;
+  color: rgb(189, 189, 189);
+}
+.form-control {
+  width: 100% !important;
+  margin-left: 40% !important;
+}
+.bodyTitle {
+  font-size: 16px;
+  margin-left: 10%;
+}
+.paymentHeader {
+  background-color: gold;
+}
+.paymentLogo {
+  width: 10%;
+  margin-left: 50%;
+}
+
+.pay-type-container>div>div{
+  margin: 2% 0;
+}
+
+.payMent-from {
+  text-align: right !important;
+  border-bottom: 4px solid #f5e083 !important;
+  border-radius: 0px;
+  background: #ffffff;
+  box-shadow: 5px 5px 10px #c4c4c4, -5px -5px 10px #ffffff;
+  border: 0px;
+  margin: 5% auto 0 auto;
+  width: 90%;
+}
+
+.pay-type-container {
+  margin: 5% 5% 0 0;
+  text-align: right;
+  width: 90%;
+}
+.pay-type-container>div>label {
+  margin-right:2%;
+}
+
+.payMent-from:hover {
+  border-bottom: 4px solid rgb(29, 28, 28) !important;
+}
+.bodyTitle {
+  text-align: center !important;
+}
+.secondary {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+.secondary:hover {
+  color: #f5e083;
+}

@@ -1,0 +1,16 @@
+.postion-contaner {
+  width: 50%;
+  margin-right: 15%;
+  border-right: 0.5vw solid  black;
+}
+
+.postion-text {
+  display: inline-block;
+  width: 20%;
+
+}
+
+.postion-text1 {
+  display: inline-block;
+  width: 10%;
+}

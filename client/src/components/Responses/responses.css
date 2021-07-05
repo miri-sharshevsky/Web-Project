@@ -1,0 +1,20 @@
+.responses-add {
+  background-color: #f3cb16;
+  padding-top: 1%;
+  margin-top: 2%;
+  padding-bottom: 1%;
+  margin-right: 6%;
+  margin-left: 66%;
+  font-family: "FbAyala-Bold";
+  font-size: larger;
+  border: 0.3vw solid #f3cb16 !important;
+  background-color: white;
+  cursor: pointer;
+}
+.responses-rating {
+  margin-bottom: 0%;
+}
+.responses-add:hover {
+  border: 0.3vw solid #f3cb16 !important;
+  background-color: #f3cb16;
+}

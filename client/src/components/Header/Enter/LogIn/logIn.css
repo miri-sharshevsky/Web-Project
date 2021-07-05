@@ -1,0 +1,75 @@
+.logIn {
+  width: 100% !important;
+  background-color: white !important;
+}
+
+.formField {
+  width: 70% !important;
+}
+.form-control {
+  margin-right: 3% !important;
+  width: 70% !important;
+}
+.col-6 {
+  margin-left: 40%;
+  margin-right: 3%;
+}
+.emptyDiv {
+  height: 10000px;
+}
+.resImg2 {
+  background-image: url("https://images.rest.co.il/Customers/80178756/b7eabd66db2e44a29be7063885bca7ad_56.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 250px;
+}
+
+.lignHeader {
+  padding-left: 70%;
+}
+.loginHeader {
+  float: right;
+  padding-left: 50%;
+  font-size: 150%;
+  color: white;
+}
+.loginLogo {
+  width: 10%;
+  padding-left: 0%;
+}
+.form-control {
+  float: right;
+}
+
+.errors {
+  color: red !important;
+  text-align: right;
+  margin-right: 5%;
+}
+
+/* .secondary{
+    color: white;
+    border-color: white;
+} */
+
+ModalBody {
+  text-align: center;
+}
+.text {
+  text-align: center;
+}
+.login-form {
+  text-align: right !important;
+  border-bottom: 4px solid #f5e083 !important;
+  border-radius: 0px;
+  background: #ffffff;
+  box-shadow: 5px 5px 10px #c4c4c4, -5px -5px 10px #ffffff;
+  border: 0px;
+  margin-right: 5% !important;
+  float: right;
+  width: 90%;
+}
+
+.login-form:hover {
+  border-bottom: 4px solid rgb(29, 28, 28) !important;
+}

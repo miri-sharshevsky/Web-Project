@@ -1,0 +1,97 @@
+.img {
+  height: 40px;
+}
+.img:hover {
+  height: 45px !important;
+}
+
+.header-contener {
+  direction: rtl !important;
+}
+
+.header-contener {
+  background-color: #f3cb16 !important;
+  position: fixed;
+  z-index: 10;
+  width: 100% !important;
+  top: 0;
+}
+
+.header-link:hover {
+  color: whitesmoke !important;
+  font-weight: 600;
+}
+
+.header-link {
+  cursor: pointer;
+  font-size: 20px !important;
+  font-weight: 600;
+  color: rgb(63, 62, 62) !important;
+}
+
+Nav.Link{
+  cursor: pointer !important;
+}
+
+.fa fa-search {
+  size: 40px;
+}
+.serch-container {
+  margin-top: 8px;
+  margin-right: 40%;
+  margin-bottom: 1%;
+  margin-top: 1.5%;
+}
+
+.secondary {
+  color: rgb(63, 62, 62);
+  border-color: white !important;
+}
+.secondary:hover {
+  color: #f3cb16;
+}
+
+.loginIcon {
+  color: rgb(63, 62, 62);
+  text-align: center;
+  padding: 14px 16px 14px 0;
+  font-size: 17px;
+  cursor: pointer;
+}
+.hellowUser {
+  color: rgb(63, 62, 62);
+  display: inline-block;
+  text-align: center;
+  padding: 14px 0px;
+  font-size: 17px;
+  cursor: pointer;
+}
+.hellowUser:hover {
+  color: whitesmoke;
+}
+.loginIcon:hover {
+  color: whitesmoke;
+}
+
+.bi bi-person-fill {
+  color: white;
+}
+
+.dropbtn {
+  background-color: #4caf50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  position: absolute;
+}
+
+.mr-auto {
+  padding-left: 50%;
+}

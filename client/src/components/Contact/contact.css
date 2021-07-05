@@ -1,0 +1,38 @@
+.contact-contaner {
+  margin-top: 3%;
+}
+.contact-detailes {
+  padding-right: 0% !important;
+  margin-top: 7%;
+  background-color: white;
+  width: 28%;
+  margin-right: 2%;
+  margin-bottom: 10%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  border: 3px solid #f3cb16;
+  display: inline-block;
+}
+.contact-text-title {
+  font-family: "FbAyala-Bold";
+}
+
+.contact-chat {
+  margin-top: 5%;
+  display: inline-block;
+  width: 40%;
+}
+
+.contact-openChat {
+  cursor: pointer;
+}
+
+.contact-openChat:hover {
+  color: #f3cb16;
+}
+.openChat {
+  top: 15% !important;
+  left: 1%;
+  position: fixed;
+  cursor: pointer;
+}

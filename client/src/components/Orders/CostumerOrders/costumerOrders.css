@@ -1,0 +1,47 @@
+.costumerOrder-order {
+  background-color: white;
+  width: 90%;
+  margin-right: 5%;
+  margin-bottom: 2%;
+  border-top: 0.2vw solid #f3cb16;
+}
+
+.costumerOrder-icon {
+  padding-right: 0% !important;
+  margin-right: 0% !important;
+  display: inline-block;
+  text-align: right;
+  width: 1%;
+}
+.costumerOrder-date {
+  display: inline-block;
+  width: 23%;
+  padding-top: 1%;
+}
+.costumerOrder-name {
+  display: inline-block;
+  width: 23%;
+  padding-top: 1%;
+}
+.costumerOrder-address {
+  display: inline-block;
+  width: 23%;
+  padding-top: 1%;
+}
+.costumerOrder-time {
+  display: inline-block;
+  width: 23%;
+  padding-top: 1%;
+}
+.costumerOrder-contaner {
+  margin-top: 3%;
+}
+.costumerOrder-text {
+  display: inline-block;
+  width: 23%;
+  text-align: center;
+}
+.costumerOrder-title {
+  width: 90%;
+  margin-right: 7%;
+}

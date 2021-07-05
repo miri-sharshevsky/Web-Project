@@ -1,0 +1,19 @@
+.foodImg2{
+    height: 110%;
+    width: 150%;
+    
+}
+
+.footer{
+    text-align: center;
+}
+
+.price{
+    margin-left: 50%;
+}
+.secondary{
+    background-color: #f5cf25;
+    display: inline-block;
+    border-radius: 5%;
+    border-width: 0.1px;
+}

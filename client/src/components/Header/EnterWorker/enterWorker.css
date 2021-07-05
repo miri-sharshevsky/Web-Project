@@ -1,0 +1,24 @@
+.enterManeger-MOdalHeader {
+  background-color: gold;
+}
+.enterWorker-from {
+  text-align: right !important;
+  border-bottom: 4px solid #f5e083 !important;
+  border-radius: 0px;
+  background: #ffffff;
+  box-shadow: 5px 5px 10px #c4c4c4, -5px -5px 10px #ffffff;
+  border: 0px;
+  margin-right: 5% !important;
+  float: right;
+  width: 90%;
+}
+
+.enterWorker-from:hover {
+  border-bottom: 4px solid rgb(29, 28, 28) !important;
+}
+.enterWorker-input {
+  margin-top: 3%;
+}
+.enterWorker-detailes {
+  padding-top: 5%;
+}

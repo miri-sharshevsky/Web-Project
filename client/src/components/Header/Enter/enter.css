@@ -1,0 +1,64 @@
+.enter-login {
+  cursor: pointer;
+}
+
+.enter-login:hover {
+  color: #f5e083;
+}
+
+.enter-tryagain {
+  cursor: pointer;
+}
+.enter-tryagain:hover {
+  color: #f5e083;
+}
+.secondary {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  font-family: "FbAyala-Bold";
+}
+.secondary:hover {
+  color: #f5e083;
+}
+.enter-sighinIn {
+  background-color: white;
+  color: black;
+  text-align: center;
+  cursor: pointer;
+}
+.enter-sighinIn:hover {
+  color: #f5e083;
+}
+
+.enter-from {
+  text-align: right !important;
+  border-bottom: 4px solid #f5e083 !important;
+  border-radius: 0px;
+  background: #ffffff;
+  box-shadow: 5px 5px 10px #c4c4c4, -5px -5px 10px #ffffff;
+  border: 0px;
+  margin-right: 5% !important;
+  float: right;
+  width: 90%;
+}
+
+.enter-from:hover {
+  border-bottom: 4px solid rgb(29, 28, 28) !important;
+}
+.detailes {
+  padding-bottom: 3%;
+  padding-top: 3%;
+}
+.enter-forgetPassword {
+  cursor: pointer;
+  color: #f3cb16;
+  font-size: 1.2vw !important;
+  padding-top: 1%;
+  padding-bottom: 0% !important;
+  margin-bottom: 0% !important;
+}
+
+.enter-forgetPassword:hover {
+  color: black;
+}

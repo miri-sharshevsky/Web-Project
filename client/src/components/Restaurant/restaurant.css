@@ -1,0 +1,49 @@
+.container {
+  margin-left: 0%;
+  margin-right: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  max-width: 100%;
+  position: relative;
+}
+
+.resturant-category-hashlink {
+  color: black;
+}
+
+.resturant-category-hashlink:hover {
+  text-decoration: none !important;
+  color: #f5cf25 !important;
+}
+
+.resImg {
+  background-image: url("https://sfilev2.f-static.com/image/users/1476650/pagesAlbums/6653186/96254/n_96254.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 20vw !important;
+  position: relative;
+  top: 0;
+  left: 0;
+  position: relative;
+}
+.logo {
+  position: absolute;
+  width: 12vw;
+  height: 10vw;
+  top: 14.5vw;
+  left: 45vw;
+}
+.row {
+  display: flex;
+  margin-left: 5% !important;
+  margin-right: 1% !important;
+  /* padding-right: 10%  !important; */
+  text-align: center;
+}
+.emtyDiv {
+  height: 100px;
+}
+.emtyDiv1 {
+  height: 10vw !important;
+}
+

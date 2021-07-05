@@ -1,0 +1,36 @@
+.respnse-contaner {
+  background-color: white;
+  width: 90%;
+  margin-left: 6%;
+  margin-top: 2%;
+  margin-right: 6%;
+  border-bottom: 0.3vw solid #f3cb16 !important;
+}
+.respnse-name {
+  margin-bottom: 1%;
+  text-align: right;
+  padding-right: 2%;
+  padding-top: 1%;
+}
+.response-userIcon {
+  color: #f3cb16;
+  text-align: right;
+  padding-right: 0%;
+  margin-bottom: 0%;
+  margin-left: 1%;
+  display: inline-block;
+}
+.response-responseIcon {
+  color: #f3cb16;
+  text-align: right;
+  padding-right: 0%;
+  margin-bottom: 0%;
+  margin-left: 1%;
+  display: inline-block;
+}
+.response-response {
+  margin-bottom: 0%;
+  text-align: right;
+  padding-right: 2%;
+  margin-bottom: 1%;
+}

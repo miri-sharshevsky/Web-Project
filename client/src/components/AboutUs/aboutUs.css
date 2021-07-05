@@ -1,0 +1,18 @@
+.aboutUs-text {
+  margin-top: 0% !important;
+}
+.aboutUs-contaner {
+  margin-top: 5%;
+  background-color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-bottom: 1%;
+  padding-right: 3%;
+  padding-left: 3%;
+  border-right: 8px solid #f3cb16;
+  border-bottom: 5px solid #f3cb16;
+  margin-bottom: 5%;
+}
+.title {
+  font-family: FbAyala-Black;
+}

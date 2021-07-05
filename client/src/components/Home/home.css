@@ -1,0 +1,80 @@
+.resImg4 {
+  background-image: url("https://i.ytimg.com/vi/HcJQqEaENeY/maxresdefault.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 250px;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.headerButton1 {
+  background-color: #f3cb16;
+  border-radius: 4vw;
+  color: black;
+  font-family: FbAyala-Black;
+  padding: 1%;
+  width: 35%;
+  padding-top: 1.5% !important;
+  padding-bottom: 1.5% !important;
+  display: block;
+  margin-right: 55%;
+  margin-top: 20%;
+  font-size: 2vw;
+}
+.headerButton2 {
+  margin-right: 55%;
+  font-size: 2vw;
+  margin-top: 3%;
+  background-color: #f3cb16;
+  border-radius: 4vw;
+  color: black;
+  font-family: FbAyala-Black;
+  padding: 1%;
+  width: 35%;
+  display: block;
+  padding-top: 1.5% !important;
+  padding-bottom: 1.5% !important;
+}
+
+body::-webkit-scrollbar {
+  width: 15px;
+  background-color: rgb(247, 245, 239);
+}
+
+body::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #3f3e3b;
+}
+body::-webkit-scrollbar-thumb :hover {
+  background-color: #f3cb16;
+}
+
+.headerButton1:hover,
+.headerButton2:hover {
+  text-decoration: none;
+  color: black;
+  filter: brightness(80%);
+}
+.welcome {
+  position: absolute;
+  width: 80%;
+  top: 20%;
+  right: 10%;
+  font-size: 55px;
+  font-style: oblique;
+}
+
+.home {
+  background-size: cover;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  display: table;
+}
+.logo2 {
+  position: absolute;
+  width: 13%;
+  top: 15%;
+  left: 45%;
+}

@@ -1,0 +1,23 @@
+.workerOrders-statuses {
+  font-family: "FbAyala-Bold";
+  text-align: right;
+  padding-right: 3%;
+}
+
+.workerOrder-title {
+  margin-top: 5%;
+}
+
+.workerOrder-text {
+  display: inline-block;
+  width: 23%;
+  text-align: center;
+}
+.workerOrders-icon {
+  color: #f3cb16;
+  display: inline-block;
+  cursor: pointer;
+}
+.workerOrders-icon :hover {
+  color: black;
+}

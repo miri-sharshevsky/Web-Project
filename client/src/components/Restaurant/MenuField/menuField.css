@@ -1,0 +1,26 @@
+.foodImg {
+  background-color: rgb(241, 238, 22);
+
+  width: 100%;
+  height: 47%;
+}
+.menuField {
+  /*   background-color: rgb(247, 245, 239);
+ */
+  width: 88%;
+  height: 90%;
+  cursor: pointer;
+  border-radius: 0px;
+  background: rgb(247, 245, 239);
+  box-shadow: 5px 5px 10px #a5a5a5, -5px -5px 10px #ffffff;
+}
+.buyButton {
+  font-size: 25%;
+  margin-right: 70%;
+}
+.col-6 {
+  font-size: small;
+}
+.col-6 {
+  font-size: small;
+}
